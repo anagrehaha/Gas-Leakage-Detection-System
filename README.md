@@ -10,5 +10,7 @@ In terms of software, we utilized the Blynk App and the Twilio platform to enabl
 
 By integrating these components and software tools, our Gas Leakage Detection System serves as an effective and efficient solution for mitigating the risks associated with gas leaks and ensuring the well-being of individuals in various environments.
 
+There are two reports of our graduation project
+
 Here's the link demoenstration of our project
 https://drive.google.com/file/d/1WZczRLrdj-w6yd0PYNH01dAo_g03OeN0/view?usp=drive_link
